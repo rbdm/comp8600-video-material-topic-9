@@ -1,0 +1,3 @@
+bf24099e5d7362fe7f5a37cbeec558b2
+9
+Link to backup video, python code and pdf slide: https://github.com/rbdm/comp8600-video-material-topic-9
